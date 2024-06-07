@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-    <h1>Hell0</h1>
+    <h1 className='text-3xl bg-blue-900 text-white'>Hell0</h1>
+    <h2>Currency project</h2>
     </>
   )
 }
