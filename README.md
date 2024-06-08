@@ -25,7 +25,7 @@ A web application for converting currency values from one type to another. This 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/currency-converter.git
+    git clone https://github.com/Yatendrarajput/Currency_Project.git
     ```
 
 2. Navigate to the project directory:
