@@ -13,6 +13,7 @@ A web application for converting currency values from one type to another. This 
 ## Screenshots
 
 ![Screenshot](https://drive.google.com/uc?export=view&id=12optRMk4wLa7HcFkqc_AtFi6dpTOw-OP)
+![Screenshot](https://drive.google.com/uc?export=view&id=1rBKmaMpRbqmK6DE4hH1QNWf4alUjI7lR)
 
 ## Tech Stack
 
